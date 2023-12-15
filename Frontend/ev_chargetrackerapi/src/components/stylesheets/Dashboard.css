@@ -1,0 +1,15 @@
+#dashboardimg{
+    border-radius: 2em;
+}
+
+#dashboardsection{
+    
+        background-image: url("../images/evbgimg.png");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        border-radius: 1em;
+        width:auto;
+        opacity: 1;
+        
+    
+}

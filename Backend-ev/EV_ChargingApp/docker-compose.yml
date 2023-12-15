@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  ev_chargingapp:
+    image: ${DOCKER_REGISTRY-}evchargingapp
+    build:
+      context: .
+      dockerfile: Dockerfile

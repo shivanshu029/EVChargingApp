@@ -1,0 +1,17 @@
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\bin\Debug\net6.0\EV_ChargingApp.BLL.deps.json
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\bin\Debug\net6.0\EV_ChargingApp.BLL.runtimeconfig.json
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\bin\Debug\net6.0\EV_ChargingApp.BLL.dll
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\bin\Debug\net6.0\EV_ChargingApp.BLL.pdb
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\bin\Debug\net6.0\EV_ChargingApp.DAL.dll
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\bin\Debug\net6.0\EV_ChargingApp.DAL.pdb
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\obj\Debug\net6.0\EV_ChargingApp.BLL.csproj.AssemblyReference.cache
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\obj\Debug\net6.0\EV_ChargingApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\obj\Debug\net6.0\EV_ChargingApp.BLL.AssemblyInfoInputs.cache
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\obj\Debug\net6.0\EV_ChargingApp.BLL.AssemblyInfo.cs
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\obj\Debug\net6.0\EV_ChargingApp.BLL.csproj.CoreCompileInputs.cache
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\obj\Debug\net6.0\EV_ChargingApp.BLL.csproj.CopyComplete
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\obj\Debug\net6.0\EV_ChargingApp.BLL.dll
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\obj\Debug\net6.0\refint\EV_ChargingApp.BLL.dll
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\obj\Debug\net6.0\EV_ChargingApp.BLL.pdb
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\obj\Debug\net6.0\EV_ChargingApp.BLL.genruntimeconfig.cache
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.BLL\obj\Debug\net6.0\ref\EV_ChargingApp.BLL.dll

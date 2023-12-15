@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XEYcVPUMwk52fUcS9wd51+Hm3KXi3YyHj4XSAYnSTHE=",
+  "Source": "EV_ChargingApp",
+  "BasePath": "_content/EV_ChargingApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

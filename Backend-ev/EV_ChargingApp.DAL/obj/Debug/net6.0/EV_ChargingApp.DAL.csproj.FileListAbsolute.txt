@@ -1,0 +1,14 @@
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\bin\Debug\net6.0\EV_ChargingApp.DAL.deps.json
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\bin\Debug\net6.0\EV_ChargingApp.DAL.runtimeconfig.json
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\bin\Debug\net6.0\EV_ChargingApp.DAL.dll
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\bin\Debug\net6.0\EV_ChargingApp.DAL.pdb
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\obj\Debug\net6.0\EV_ChargingApp.DAL.csproj.AssemblyReference.cache
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\obj\Debug\net6.0\EV_ChargingApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\obj\Debug\net6.0\EV_ChargingApp.DAL.AssemblyInfoInputs.cache
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\obj\Debug\net6.0\EV_ChargingApp.DAL.AssemblyInfo.cs
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\obj\Debug\net6.0\EV_ChargingApp.DAL.csproj.CoreCompileInputs.cache
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\obj\Debug\net6.0\EV_ChargingApp.DAL.dll
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\obj\Debug\net6.0\refint\EV_ChargingApp.DAL.dll
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\obj\Debug\net6.0\EV_ChargingApp.DAL.pdb
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\obj\Debug\net6.0\EV_ChargingApp.DAL.genruntimeconfig.cache
+C:\souce_gitlab\internship-2023\Shivanshu\Backend-ev\EV_ChargingApp.DAL\obj\Debug\net6.0\ref\EV_ChargingApp.DAL.dll
